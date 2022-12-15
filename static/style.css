@@ -1,0 +1,19 @@
+
+body{
+    background-color: #4faaaa;
+    text-align: center;
+}
+input[type=file] {
+    display:inline-block;
+    }
+
+h3{
+    color:green;
+    }
+h1{
+    font-weight: bold;
+    }
+hr{
+    border: 5px solid black;
+    border-radius: 5px;
+    }
